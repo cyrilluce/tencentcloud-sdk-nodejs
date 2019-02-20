@@ -1,0 +1,1 @@
+/// <reference path="./tencentcloud/index.d.ts" />
